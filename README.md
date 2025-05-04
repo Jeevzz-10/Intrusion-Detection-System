@@ -1,4 +1,4 @@
-DoS Attack Detection using Python (IDS)
+DoS Attack Detection using Python (IDS)<br>
 This project simulates a basic Denial of Service (DoS) attack and demonstrates how an Intrusion Detection System (IDS) can detect abnormal SYN flood traffic using raw sockets in Python.
 
 Project Structure
